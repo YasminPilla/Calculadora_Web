@@ -9,7 +9,7 @@
   <h2 align="center">
   <a style='color:#FFF' href="#"> Calculadora Web Interativa</a>
  </h2>
-##🛰️ Tecnologias
+🛰️ Tecnologias
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" style='color:#FFF'>HTML5</a>
 <br/>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" style='color:#FFF'>CSS3</a>
@@ -18,10 +18,10 @@
 <br/>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" style='color:#FFF'>JavaScript</a>
 <br/>
-##👨‍💻 Projeto
+👨‍💻 Projeto
 Calculadora web moderna desenvolvida com tecnologias front-end fundamentais, oferecendo uma interface intuitiva para operações matemáticas básicas. O projeto apresenta design limpo e responsivo, construído seguindo as melhores práticas de desenvolvimento web para garantir compatibilidade cross-browser e performance otimizada.
 <br/>
-##⚡ Funcionalidades
+⚡ Funcionalidades
 
 ✅ Operações básicas (adição, subtração, multiplicação, divisão)
 ✅ Interface responsiva e moderna
