@@ -27,13 +27,17 @@ Calculadora web moderna desenvolvida com tecnologias front-end fundamentais, ofe
 ## ⚡ Funcionalidades
 
 ✅ Operações básicas (adição, subtração, multiplicação, divisão)
+<br/>
 ✅ Interface responsiva e moderna
+<br/>
 ✅ Suporte a números decimais
+<br/>
 ✅ Função de limpar (Clear)
+<br/>
 
 <br/>
 
 ## 🖼️ Demonstração
-![Imagem da Calculadora](/img/Design_da_Calculadora.png)
+![Imagem da Calculadora](Design_da_Calculadora.png)
 
 <br/>
