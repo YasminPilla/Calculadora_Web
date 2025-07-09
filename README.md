@@ -34,6 +34,6 @@ Calculadora web moderna desenvolvida com tecnologias front-end fundamentais, ofe
 <br/>
 
 ## 🖼️ Demonstração
-![Imagem da Calculadora](img/Design_da_Calculadora.png)
+![Imagem da Calculadora](/img/Design_da_Calculadora.png)
 
 <br/>
